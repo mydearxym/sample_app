@@ -8,4 +8,4 @@ by [Michael Hartl](http://michaelhartl.com/).
 
 ### `this is book is awesome by the way`
 
-[*about我*](mydearxym.github.io/blog/)
+[*about我*](http://mydearxym.github.io/blog/)
